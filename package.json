@@ -31,6 +31,7 @@
     "vite": "^7.1.2"
   },
   "reactSnap": {
+    "source": "dist",
     "inlineCss": true,
     "puppeteerArgs": [
       "--no-sandbox",
@@ -43,9 +44,9 @@
       "/gastroenterology",
       "/cns",
       "/gynecology",
-      "/products/ovareas-gold",
-      "/products/ovareas-m",
-      "/products/ovareas-f",
+      "/products/ovensia-gold",
+      "/products/ovensia-q10",
+      "/products/ovensia-f",
       "/products/femfil",
       "/products/calixia-60k",
       "/products/folsea-12",
